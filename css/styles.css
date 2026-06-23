@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f8f9fa; /* Cumple con aplicar una regla extra */
+    background-color: #f8f9fa;
 }
 
 h1, h2, h3, .navbar-brand {
