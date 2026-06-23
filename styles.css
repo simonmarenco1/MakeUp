@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa; /* Cumple con aplicar una regla extra */
+}
+
+h1, h2, h3, .navbar-brand {
+    font-family: 'Playfair Display', serif;
+}
+
+.custom-header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1600&h=600&fit=crop');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border-bottom: 5px solid #343a40;
+}
+
+.bi {
+    border-radius: 5px;
+}
